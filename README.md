@@ -1,2 +1,2 @@
 # Initial
-First
+This is for educational purpose
